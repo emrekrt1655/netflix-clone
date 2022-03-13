@@ -15,4 +15,4 @@ const setupScrolling = () => {
             item.scrollLeft -= containerWidth;
         })
     })
-}
+} 
