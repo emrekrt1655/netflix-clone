@@ -1,0 +1,15 @@
+{
+  "name": "netflix-clone-js",
+  "version": "1.0.0",
+  "description": "It is a netflix clone try with vanilla js",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "author": "Emre Kurt",
+  "license": "ISC",
+  "dependencies": {
+    "express.js": "^1.0.0",
+    "nodemon": "^2.0.15"
+  }
+}
